@@ -1,4 +1,4 @@
-# discord-token-logger
+## discord-token-logger
 steals discord tokens, captures webcam, screenshots desktop, and pulls ip
 
 also undetectable by anti virus since because of the nature of it
@@ -11,7 +11,7 @@ not responsible for whatever u do
 
 its revamp version of mine 
 
-if u want to use it # put your webhook in line 155 & 191
+## if u want to use it put your webhook in line 155 & 191
 
 
 
